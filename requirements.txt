@@ -1,0 +1,4 @@
+pyModbusTCP
+python-dotenv
+requests
+Pillow
